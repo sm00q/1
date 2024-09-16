@@ -14,5 +14,7 @@ public class Main {
 
         System.out.printf("%d to jest liczba odczytana z klawiatury\n", number);
         System.out.println("Tekst");
+        System.out.println("Nowa linia");
+        System.out.printf("Elo żelo");
     }
 }
