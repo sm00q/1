@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Tekst");
         System.out.println("Nowa linia");
         System.out.printf("Elo żelo");
+        System.out.printf("2 commit pzdr");
     }
 }
